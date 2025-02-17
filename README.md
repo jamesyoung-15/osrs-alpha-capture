@@ -4,7 +4,7 @@ Ongoing project for investment recommendation for Old School Runescape items bas
 
 Basically recommends a list of items to buy/sell based on recent Reddit posts and analysis of price change before and after the post.
 
-Idea from Alpha Capture System (used by hedge funds).
+Idea from [Alpha Capture System](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3873884) (used by hedge funds).
 
 ## Brainstorm Ideas
 
